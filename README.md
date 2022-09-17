@@ -166,7 +166,7 @@ Class Component => Hooks API 변화와 차이점을 겪어본다.
 
 우테코 크루들의 메뉴 선택을 위한 맛집 모음 앱 🍱
 
-width: 태태, 블링, 오리, 후니, 오찌
+with 태태, 블링, 오리, 후니, 오찌
 
 <a href="https://github.com/The-Fellowship-of-the-matzip">깃허브 주소</a>
 
