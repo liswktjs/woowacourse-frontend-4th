@@ -118,24 +118,17 @@ Class Component => Hooks API 변화와 차이점을 겪어본다.
 
 #### 스프린트
 
-|     | 데모 데이 영상                                                                                                           |
-| --- | ------------------------------------------------------------------------------------------------------------------------ |
-| 1차 | <a href="https://www.youtube.com/watch?v=REILvP6YXy4&t=7s">1차 데모 영상</a>                                             |
-| 2차 | <a href="https://www.youtube.com/watch?v=6fya54RMtzA&list=PLgXGHBqgT2TsWUA5puZimG3DDlJTd370Q&index=34">2차 데모 영상</a> |
-| 3차 | <a href="https://www.youtube.com/watch?v=ZA48GkZuEYY&list=PLgXGHBqgT2TsWUA5puZimG3DDlJTd370Q&index=18">3차 데모 영상</a> |
-| 4차 | 준비중                                                                                                                   |
-| 5차 | 준비중                                                                                                                   |
-| 6차 | 준비중                                                                                                                   |
+|     | 데모 데이 영상                                                                                                           | 회고 |
+| --- | ------------------------------------------------------------------------------------------------------------------------ |---|
+| 1차 | <a href="https://www.youtube.com/watch?v=REILvP6YXy4&t=7s">1차 데모 영상</a>                                             |<a href="https://velog.io/@liswktjs/%EC%9A%B0%ED%85%8C%EC%BD%94-Lv.3-1%EC%A3%BC%EC%B0%A8-%ED%9A%8C%EA%B3%A0">우테코 Lv.3 - 1주차 회고 </a>, <a href="https://velog.io/@liswktjs/%EC%9A%B0%ED%85%8C%EC%BD%94-Lv.3-2%EC%A3%BC%EC%B0%A8-%ED%9A%8C%EA%B3%A0">우테코 Lv.3 - 2주차 회고 </a> |
+| 2차 | <a href="https://www.youtube.com/watch?v=6fya54RMtzA&list=PLgXGHBqgT2TsWUA5puZimG3DDlJTd370Q&index=34">2차 데모 영상</a> | <a href="https://velog.io/@liswktjs/%EC%9A%B0%ED%85%8C%EC%BD%94-Lv.3-3-4%EC%A3%BC%EC%B0%A8-%ED%9A%8C%EA%B3%A0">우테코 Lv.3 - 3 ~ 4주차 회고 </a> | 
+| 3차 | <a href="https://www.youtube.com/watch?v=ZA48GkZuEYY&list=PLgXGHBqgT2TsWUA5puZimG3DDlJTd370Q&index=18">3차 데모 영상</a> | <a href="https://velog.io/@liswktjs/%EC%9A%B0%ED%85%8C%EC%BD%94-%EC%8A%A4%ED%94%84%EB%A6%B0%ED%8A%B8-3-%ED%9A%8C%EA%B3%A0">스프린트 3 회고 </a>|
+| 4차 | 준비중                                                                                                                   | <a href="https://velog.io/@liswktjs/%EC%9A%B0%ED%85%8C%EC%BD%94-%EC%8A%A4%ED%94%84%EB%A6%B0%ED%8A%B84-%ED%9A%8C%EA%B3%A0">스프린트 4 회고 </a>|
+| 5차 | 준비중                                                                                                                   | <a href="https://velog.io/@liswktjs/%EC%9A%B0%ED%85%8C%EC%BD%94-%EB%A0%88%EB%B2%A84-1%EC%A3%BC%EC%B0%A8-%ED%9A%8C%EA%B3%A0">우테코 레벨 4 1주차 회고</a>, <a href="https://velog.io/@liswktjs/%EC%9A%B0%ED%85%8C%EC%BD%94-%EB%A0%88%EB%B2%A84-2%EC%A3%BC%EC%B0%A8-%ED%9A%8C%EA%B3%A0">우테코 레벨 4 2주차 회고</a> |
+| 6차 | 준비중                                                                                                                   ||
 
 #### 관련 글
 
-- <a href="https://velog.io/@liswktjs/%EC%9A%B0%ED%85%8C%EC%BD%94-Lv.3-1%EC%A3%BC%EC%B0%A8-%ED%9A%8C%EA%B3%A0">우테코 Lv.3 - 1주차 회고 </a>
-- <a href="https://velog.io/@liswktjs/%EC%9A%B0%ED%85%8C%EC%BD%94-Lv.3-2%EC%A3%BC%EC%B0%A8-%ED%9A%8C%EA%B3%A0">우테코 Lv.3 - 2주차 회고 </a>
-- <a href="https://velog.io/@liswktjs/%EC%9A%B0%ED%85%8C%EC%BD%94-Lv.3-3-4%EC%A3%BC%EC%B0%A8-%ED%9A%8C%EA%B3%A0">우테코 Lv.3 - 3 ~ 4주차 회고 </a>
-- <a href="https://velog.io/@liswktjs/%EC%9A%B0%ED%85%8C%EC%BD%94-%EC%8A%A4%ED%94%84%EB%A6%B0%ED%8A%B8-3-%ED%9A%8C%EA%B3%A0">스프린트 3 회고 </a>
-- <a href="https://velog.io/@liswktjs/%EC%9A%B0%ED%85%8C%EC%BD%94-%EC%8A%A4%ED%94%84%EB%A6%B0%ED%8A%B84-%ED%9A%8C%EA%B3%A0">스프린트 4 회고 </a>
-- <a href="https://velog.io/@liswktjs/%EC%9A%B0%ED%85%8C%EC%BD%94-%EB%A0%88%EB%B2%A84-1%EC%A3%BC%EC%B0%A8-%ED%9A%8C%EA%B3%A0">우테코 레벨 4 1주차 회고</a>
-- <a href="https://velog.io/@liswktjs/%EC%9A%B0%ED%85%8C%EC%BD%94-%EB%A0%88%EB%B2%A84-2%EC%A3%BC%EC%B0%A8-%ED%9A%8C%EA%B3%A0">우테코 레벨 4 2주차 회고</a>
 - <a href="https://velog.io/@liswktjs/%EC%9A%B0%EB%A6%AC-%ED%8C%80%EC%9D%98-%EC%84%B1%EB%8A%A5-%EC%B5%9C%EC%A0%81%ED%99%94-%EC%9D%B4%EC%95%BC%EA%B8%B0">공식 팀의 성능 최적화</a>
 
 ### 미션 🚀
