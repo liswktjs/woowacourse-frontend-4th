@@ -116,7 +116,7 @@ Class Component => Hooks API 변화와 차이점을 겪어본다.
 - 프론트 : 샐리 , 자스민
 - 백엔드 : 주디, 기론, 레넌, 슬로
 
-#### 스프린트
+#### 스프린트 
 
 |     | 데모 데이 영상                                                                                                           | 회고 |
 | --- | ------------------------------------------------------------------------------------------------------------------------ |---|
@@ -124,8 +124,10 @@ Class Component => Hooks API 변화와 차이점을 겪어본다.
 | 2차 | <a href="https://www.youtube.com/watch?v=6fya54RMtzA&list=PLgXGHBqgT2TsWUA5puZimG3DDlJTd370Q&index=34">2차 데모 영상</a> | <a href="https://velog.io/@liswktjs/%EC%9A%B0%ED%85%8C%EC%BD%94-Lv.3-3-4%EC%A3%BC%EC%B0%A8-%ED%9A%8C%EA%B3%A0">우테코 Lv.3 - 3 ~ 4주차 회고 </a> | 
 | 3차 | <a href="https://www.youtube.com/watch?v=ZA48GkZuEYY&list=PLgXGHBqgT2TsWUA5puZimG3DDlJTd370Q&index=18">3차 데모 영상</a> | <a href="https://velog.io/@liswktjs/%EC%9A%B0%ED%85%8C%EC%BD%94-%EC%8A%A4%ED%94%84%EB%A6%B0%ED%8A%B8-3-%ED%9A%8C%EA%B3%A0">스프린트 3 회고 </a>|
 | 4차 | 준비중                                                                                                                   | <a href="https://velog.io/@liswktjs/%EC%9A%B0%ED%85%8C%EC%BD%94-%EC%8A%A4%ED%94%84%EB%A6%B0%ED%8A%B84-%ED%9A%8C%EA%B3%A0">스프린트 4 회고 </a>|
-| 5차 | 준비중                                                                                                                   | <a href="https://velog.io/@liswktjs/%EC%9A%B0%ED%85%8C%EC%BD%94-%EB%A0%88%EB%B2%A84-1%EC%A3%BC%EC%B0%A8-%ED%9A%8C%EA%B3%A0">우테코 레벨 4 1주차 회고</a>, <a href="https://velog.io/@liswktjs/%EC%9A%B0%ED%85%8C%EC%BD%94-%EB%A0%88%EB%B2%A84-2%EC%A3%BC%EC%B0%A8-%ED%9A%8C%EA%B3%A0">우테코 레벨 4 2주차 회고</a> |
+| 5차 | 준비중                                                                                                                   | <a href="https://velog.io/@liswktjs/%EC%9A%B0%ED%85%8C%EC%BD%94-%EB%A0%88%EB%B2%A84-1%EC%A3%BC%EC%B0%A8-%ED%9A%8C%EA%B3%A0">레벨 4 1주차 회고</a>, <a href="https://velog.io/@liswktjs/%EC%9A%B0%ED%85%8C%EC%BD%94-%EB%A0%88%EB%B2%A84-2%EC%A3%BC%EC%B0%A8-%ED%9A%8C%EA%B3%A0">레벨 4 2주차 회고</a>, <a href="https://velog.io/@liswktjs/%EC%9A%B0%ED%85%8C%EC%BD%94-%EB%A0%88%EB%B2%A8-4-3%EC%A3%BC%EC%B0%A8-%ED%9A%8C%EA%B3%A0">레벨 4 3주차 회고</a> |
 | 6차 | 준비중                                                                                                                   ||
+
+
 
 #### 관련 글
 
@@ -157,9 +159,7 @@ Class Component => Hooks API 변화와 차이점을 겪어본다.
 
 ### MAT.ZIP
 
-우테코 크루들의 메뉴 선택을 위한 맛집 모음 앱 🍱
-
-with 태태, 블링, 오리, 후니, 오찌
+우테코 크루들의 메뉴 선택을 위한 맛집 모음 앱 🍱  with 태태, 블링, 오리, 후니, 오찌
 
 <a href="https://github.com/The-Fellowship-of-the-matzip">깃허브 주소</a>
 
