@@ -125,13 +125,15 @@ Class Component => Hooks API 변화와 차이점을 겪어본다.
 | 3차 | <a href="https://www.youtube.com/watch?v=ZA48GkZuEYY&list=PLgXGHBqgT2TsWUA5puZimG3DDlJTd370Q&index=18">3차 데모 영상</a> | <a href="https://velog.io/@liswktjs/%EC%9A%B0%ED%85%8C%EC%BD%94-%EC%8A%A4%ED%94%84%EB%A6%B0%ED%8A%B8-3-%ED%9A%8C%EA%B3%A0">스프린트 3  </a>|
 | 4차 | <a href="https://www.youtube.com/watch?v=QtfPt4WTAKk&t=1s">4차 데모영상</a>                                                                                                                 | <a href="https://velog.io/@liswktjs/%EC%9A%B0%ED%85%8C%EC%BD%94-%EC%8A%A4%ED%94%84%EB%A6%B0%ED%8A%B84-%ED%9A%8C%EA%B3%A0">스프린트 4 </a>|
 | 5차 | 준비중                                                                                                                   | <a href="https://velog.io/@liswktjs/%EC%9A%B0%ED%85%8C%EC%BD%94-%EB%A0%88%EB%B2%A84-1%EC%A3%BC%EC%B0%A8-%ED%9A%8C%EA%B3%A0">레벨 4 1주차</a>, <a href="https://velog.io/@liswktjs/%EC%9A%B0%ED%85%8C%EC%BD%94-%EB%A0%88%EB%B2%A84-2%EC%A3%BC%EC%B0%A8-%ED%9A%8C%EA%B3%A0">레벨 4 2주차</a>, <a href="https://velog.io/@liswktjs/%EC%9A%B0%ED%85%8C%EC%BD%94-%EB%A0%88%EB%B2%A8-4-3%EC%A3%BC%EC%B0%A8-%ED%9A%8C%EA%B3%A0">레벨 4 3주차</a>, <a href="https://velog.io/@liswktjs/%EC%9A%B0%ED%85%8C%EC%BD%94-%EB%A0%88%EB%B2%A84-4%EC%A3%BC%EC%B0%A8-%ED%9A%8C%EA%B3%A0">레벨 4 4주차</a> |
-| 6차 | 준비중                                                                                                                   |<a href="https://velog.io/@liswktjs/%EC%9A%B0%ED%85%8C%EC%BD%94-%EB%A0%88%EB%B2%A84-5%EC%A3%BC%EC%B0%A8-%ED%9A%8C%EA%B3%A0">레벨 4 5주차</a>|
+| 6차 | 준비중                                                                                                                   |<a href="https://velog.io/@liswktjs/%EC%9A%B0%ED%85%8C%EC%BD%94-%EB%A0%88%EB%B2%A84-5%EC%A3%BC%EC%B0%A8-%ED%9A%8C%EA%B3%A0">레벨 4 5주차</a>, <a href="https://velog.io/@liswktjs/%EC%9A%B0%ED%85%8C%EC%BD%94%EB%A0%88%EB%B2%A84-6%EC%A3%BC%EC%B0%A8-%ED%9A%8C%EA%B3%A0">레벨 4 6주차</a>|
 
 
 
 #### 관련 글
 
 - <a href="https://velog.io/@liswktjs/%EC%9A%B0%EB%A6%AC-%ED%8C%80%EC%9D%98-%EC%84%B1%EB%8A%A5-%EC%B5%9C%EC%A0%81%ED%99%94-%EC%9D%B4%EC%95%BC%EA%B8%B0">공식 팀의 성능 최적화</a>
+- <a href="https://velog.io/@liswktjs/%EA%B3%B5%EC%8B%9D%ED%8C%80%EC%9D%98-GitHub-OAuth%EB%A1%9C-%EB%A1%9C%EA%B7%B8%EC%9D%B8%ED%95%98%EA%B8%B0">공식 팀의 깃허브 OAuth</a>
+- <a href="https://velog.io/@liswktjs/%EA%B3%B5%EC%8B%9D%ED%8C%80%EC%9D%98-refreshToken-%EB%8F%84%EC%9E%85%EA%B8%B0">공식 팀의 refreshToken 도입기</a> 
 
 ### 미션 🚀
 
