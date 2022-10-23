@@ -125,7 +125,7 @@ Class Component => Hooks API 변화와 차이점을 겪어본다.
 | 3차 | <a href="https://www.youtube.com/watch?v=ZA48GkZuEYY&list=PLgXGHBqgT2TsWUA5puZimG3DDlJTd370Q&index=18">3차 데모 영상</a> | <a href="https://velog.io/@liswktjs/%EC%9A%B0%ED%85%8C%EC%BD%94-%EC%8A%A4%ED%94%84%EB%A6%B0%ED%8A%B8-3-%ED%9A%8C%EA%B3%A0">스프린트 3  </a>|
 | 4차 | <a href="https://www.youtube.com/watch?v=QtfPt4WTAKk&t=1s">4차 데모영상</a>                                                                                                                 | <a href="https://velog.io/@liswktjs/%EC%9A%B0%ED%85%8C%EC%BD%94-%EC%8A%A4%ED%94%84%EB%A6%B0%ED%8A%B84-%ED%9A%8C%EA%B3%A0">스프린트 4 </a>|
 | 5차 | 준비중                                                                                                                   | <a href="https://velog.io/@liswktjs/%EC%9A%B0%ED%85%8C%EC%BD%94-%EB%A0%88%EB%B2%A84-1%EC%A3%BC%EC%B0%A8-%ED%9A%8C%EA%B3%A0">레벨 4 1주차</a>, <a href="https://velog.io/@liswktjs/%EC%9A%B0%ED%85%8C%EC%BD%94-%EB%A0%88%EB%B2%A84-2%EC%A3%BC%EC%B0%A8-%ED%9A%8C%EA%B3%A0">레벨 4 2주차</a>, <a href="https://velog.io/@liswktjs/%EC%9A%B0%ED%85%8C%EC%BD%94-%EB%A0%88%EB%B2%A8-4-3%EC%A3%BC%EC%B0%A8-%ED%9A%8C%EA%B3%A0">레벨 4 3주차</a>, <a href="https://velog.io/@liswktjs/%EC%9A%B0%ED%85%8C%EC%BD%94-%EB%A0%88%EB%B2%A84-4%EC%A3%BC%EC%B0%A8-%ED%9A%8C%EA%B3%A0">레벨 4 4주차</a> |
-| 6차 | 준비중                                                                                                                   |<a href="https://velog.io/@liswktjs/%EC%9A%B0%ED%85%8C%EC%BD%94-%EB%A0%88%EB%B2%A84-5%EC%A3%BC%EC%B0%A8-%ED%9A%8C%EA%B3%A0">레벨 4 5주차</a>, <a href="https://velog.io/@liswktjs/%EC%9A%B0%ED%85%8C%EC%BD%94%EB%A0%88%EB%B2%A84-6%EC%A3%BC%EC%B0%A8-%ED%9A%8C%EA%B3%A0">레벨 4 6주차</a>|
+| 6차 | 게더 데모데이 발표                                                                                                            |<a href="https://velog.io/@liswktjs/%EC%9A%B0%ED%85%8C%EC%BD%94-%EB%A0%88%EB%B2%A84-5%EC%A3%BC%EC%B0%A8-%ED%9A%8C%EA%B3%A0">레벨 4 5주차</a>, <a href="https://velog.io/@liswktjs/%EC%9A%B0%ED%85%8C%EC%BD%94%EB%A0%88%EB%B2%A84-6%EC%A3%BC%EC%B0%A8-%ED%9A%8C%EA%B3%A0">레벨 4 6주차</a>, <a href="https://velog.io/@liswktjs/%EC%9A%B0%ED%85%8C%EC%BD%94-%EB%A0%88%EB%B2%A84-7%EC%A3%BC%EC%B0%A8-%ED%9A%8C%EA%B3%A0">레벨 4 7주차</a>, <a href="https://velog.io/@liswktjs/%EC%9A%B0%ED%85%8C%EC%BD%94-%EB%A0%88%EB%B2%A84-8%EC%A3%BC%EC%B0%A8-%ED%9A%8C%EA%B3%A0">레벨 4 8주차</a>|
 
 
 
@@ -139,7 +139,9 @@ Class Component => Hooks API 변화와 차이점을 겪어본다.
 
 | 미션        | PR                                                                      |
 | ----------- | ----------------------------------------------------------------------- |
-| 성능 최적화 | <a href="https://github.com/woowacourse/perf-basecamp/pull/43">최종</a> |
+| 성능 최적화 | <a href="https://github.com/woowacourse/perf-basecamp/pull/43">최종 PR</a> |
+| 타입 스크립트 | <a href="https://github.com/liswktjs/gongseek-types">공식 타입 npm 배포 </a>|
+|웹 접근성| <a href="https://github.com/woowacourse/a11y-airline/pull/80">최종 PR</a>|
 
 ### 레벨 3 , 4 전체 회고 💫
 
