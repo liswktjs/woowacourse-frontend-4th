@@ -137,6 +137,7 @@ Class Component => Hooks API 변화와 차이점을 겪어본다.
 - <a href="https://velog.io/@liswktjs/Why-use-React-Query">Why use React Query?</a>
 - <a href="https://velog.io/@liswktjs/%EA%B3%B5%EC%8B%9D-%ED%8C%80%EC%97%90%EC%84%9C-children-%EA%B3%BC-%EA%B4%80%EB%A0%A8%EB%90%9C-%ED%83%80%EC%9E%85%EC%9D%84-%EB%A7%8C%EB%93%A0-%EC%9D%B4%EC%9C%A0">공식 팀에서 children 과 관련된 타입을 만든 이유</a> 
 - <a href="https://velog.io/@liswktjs/%EA%B3%B5%EC%8B%9D%EC%9D%98-%ED%8F%B4%EB%8D%94-%EA%B5%AC%EC%A1%B0"> 공식의 pages별에서 domain별로 폴더 구조 개편기</a> 
+- <a href="https://velog.io/@liswktjs/%EA%B3%B5%EC%8B%9D%EC%9D%98-Error-Boundary%EB%A1%9C-%EC%97%90%EB%9F%AC-%EC%B2%98%EB%A6%AC%ED%95%98%EA%B8%B0">에러 바운더리로 에러 처리하기</a> 
 
 ### 미션 🚀
 
@@ -149,6 +150,13 @@ Class Component => Hooks API 변화와 차이점을 겪어본다.
 ### 레벨 3 , 4 전체 회고 💫
 
 <a href="https://github.com/liswktjs/woowa-writing-4/blob/level3/level3.md">팀 프로젝트가 나에게 남긴 것 </a>
+
+
+## Level 5
+
+|회고|링크|
+|---|---|
+|1주차 회고 | <a href="https://velog.io/@liswktjs/%EC%9A%B0%ED%85%8C%EC%BD%94-%EB%A0%88%EB%B2%A8-5-1%EC%A3%BC%EC%B0%A8-%ED%9A%8C%EA%B3%A0">1주차 회고 </a>|
 
 ## 테코톡 👩‍🏫
 
